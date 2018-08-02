@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="controller.SampleController">
+  <top>
+    <VBox BorderPane.alignment="CENTER">
+      <children>
+        <MenuBar>
+          <menus>
+            <Menu mnemonicParsing="false" text="Menu">
+              <items>
+                <MenuItem mnemonicParsing="false" onAction="#handleMenuAction" text="Author List" fx:id="menuItemChoice1" />
+                <MenuItem id="menuItemChoice2" mnemonicParsing="false" onAction="#handleMenuAction" text="Add Author" fx:id="menuItemChoice2" />
+                <MenuItem mnemonicParsing="false" onAction="#handleMenuAction" text="Book List" fx:id="menuItemChoice3" />
+                <MenuItem mnemonicParsing="false" onAction="#handleMenuAction" text="Add Book" fx:id="menuItemChoice4" />
+                <MenuItem mnemonicParsing="false" onAction="#handleMenuAction" text="Export to Excel" fx:id="menuItemChoice5" />
+                <MenuItem mnemonicParsing="false" onAction="#handleMenuAction" text="Quit" fx:id="menuItemExit" />
+              </items>
+            </Menu>
+          </menus>
+        </MenuBar>
+      </children>
+    </VBox>
+  </top>
+</BorderPane>

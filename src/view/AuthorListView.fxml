@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.HBox?>
+
+<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="controller.AuthorListController">
+  <children>
+    <ListView fx:id="authorList" editable="false" onMouseClicked="#onAuthorListClicked" prefHeight="400.0" prefWidth="600.0" />
+    <Button id="deletebuttonPressed" fx:id="deleteButton" contentDisplay="LEFT" minHeight="14.0" mnemonicParsing="false" onAction="#deletePressed" prefHeight="56.0" prefWidth="169.0" text="Delete" textAlignment="LEFT" />
+  </children>
+</HBox>

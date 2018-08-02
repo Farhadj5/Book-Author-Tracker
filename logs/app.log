@@ -1,0 +1,181 @@
+15:12:29.911 INFO  controller.AuthorListController : sdfjs clicked
+15:12:32.806 INFO  controller.AuthorListController : sdfjs clicked
+15:12:36.821 INFO  controller.AuthorDetailController : The author you are trying to update has since been modified. please go back to the author list and retrieve a fresh copy of the Author to make changes
+15:12:54.643 INFO  controller.AuthorDetailController : The author you are trying to update has since been modified. please go back to the author list and retrieve a fresh copy of the Author to make changes
+15:12:55.490 INFO  controller.AuthorDetailController : The author you are trying to update has since been modified. please go back to the author list and retrieve a fresh copy of the Author to make changes
+15:12:59.900 INFO  controller.AuthorDetailController : The author you are trying to update has since been modified. please go back to the author list and retrieve a fresh copy of the Author to make changes
+15:13:03.491 INFO  controller.AuthorListController : ffff clicked
+15:13:05.370 INFO  controller.AuthorListController : ffff clicked
+15:13:22.846 INFO  controller.AuthorListController : ffff clicked
+15:13:24.199 INFO  controller.AuthorListController : sdfgs clicked
+15:13:25.391 INFO  controller.AuthorListController : sdfgs clicked
+15:13:33.537 INFO  controller.AuthorListController : sdfgs clicked
+15:14:26.194 INFO  controller.AuthorListController : sdfjs clicked
+15:14:30.982 INFO  controller.AuthorListController : sdfjs clicked
+15:14:36.199 INFO  controller.AuthorDetailController : The author you are trying to update has since been modified. please go back to the author list and retrieve a fresh copy of the Author to make changes
+15:14:47.306 INFO  controller.AuthorDetailController : The author you are trying to update has since been modified. please go back to the author list and retrieve a fresh copy of the Author to make changes
+15:14:48.893 INFO  controller.AuthorDetailController : The author you are trying to update has since been modified. please go back to the author list and retrieve a fresh copy of the Author to make changes
+15:14:51.739 INFO  controller.AuthorListController : hello clicked
+15:14:54.002 INFO  controller.AuthorListController : hello clicked
+15:19:37.604 INFO  controller.AuthorListController : sdfjs clicked
+15:19:39.475 INFO  controller.AuthorListController : sdfjs clicked
+15:25:51.377 INFO  controller.AuthorListController : ffff clicked
+15:25:55.486 INFO  controller.AuthorDetailController : The author ffff gggg has been saved
+15:27:17.954 INFO  controller.AuthorListController : ffff clicked
+15:27:47.584 INFO  book.BookDetailController : []
+15:28:06.797 INFO  controller.AuthorDetailController : The author you are trying to update has since been modified. please go back to the author list and retrieve a fresh copy of the Author to make changes
+15:28:33.569 INFO  controller.AuthorDetailController : The author you are trying to update has since been modified. please go back to the author list and retrieve a fresh copy of the Author to make changes
+15:36:26.367 INFO  controller.AuthorListController : hello clicked
+15:36:28.040 INFO  controller.AuthorDetailController : The author hello goodbye has been saved
+15:36:31.162 INFO  controller.AuthorDetailController : The author you are trying to update has since been modified. please go back to the author list and retrieve a fresh copy of the Author to make changes
+15:37:10.342 INFO  controller.AuthorListController : sdfjs clicked
+15:37:12.812 INFO  controller.AuthorDetailController : The author you are trying to update has since been modified. please go back to the author list and retrieve a fresh copy of the Author to make changes
+15:37:43.472 INFO  controller.AuthorListController : new clicked
+15:37:46.401 INFO  controller.AuthorDetailController : The author you are trying to update has since been modified. please go back to the author list and retrieve a fresh copy of the Author to make changes
+15:38:46.436 INFO  controller.AuthorListController : sdfjs clicked
+15:38:49.216 INFO  controller.AuthorDetailController : The author word ME has been saved
+15:39:56.944 INFO  controller.AuthorListController : sdfgs clicked
+15:40:01.845 INFO  controller.AuthorDetailController : The author helloasdf jijina has been saved
+15:41:04.641 INFO  controller.AuthorListController : firsttt clicked
+15:41:10.603 INFO  controller.AuthorListController : asdf clicked
+15:41:15.750 INFO  controller.AuthorDetailController : The author sdfsd lastttt has been saved
+15:41:18.417 INFO  controller.AuthorDetailController : The author sdfsd lastttt has been saved
+15:41:20.177 INFO  controller.AuthorDetailController : The author sdfsd lastttt has been saved
+15:43:14.491 INFO  controller.AuthorListController : hi clicked
+15:43:50.173 INFO  controller.AuthorListController : zzzzzeee clicked
+15:43:53.863 INFO  controller.AuthorDetailController : The author vcx zzzz has been saved
+15:48:07.410 INFO  controller.AuthorListController : word clicked
+15:48:09.465 INFO  controller.AuthorDetailController : The author ew ME has been saved
+15:48:22.628 INFO  controller.AuthorListController : sdfsd clicked
+15:48:26.433 INFO  controller.AuthorDetailController : The author farhad lastttt has been saved
+15:50:02.422 INFO  controller.AuthorListController : vcx clicked
+15:50:03.457 INFO  controller.AuthorDetailController : The author vcx zzzz has been saved
+15:50:05.711 INFO  controller.AuthorListController : ffff clicked
+15:50:06.538 INFO  controller.AuthorDetailController : The author ffff gggg has been saved
+15:50:07.851 INFO  controller.AuthorListController : hi clicked
+15:50:08.596 INFO  controller.AuthorDetailController : The author hi bye has been saved
+15:50:11.243 INFO  controller.AuthorListController : hello clicked
+15:50:12.351 INFO  controller.AuthorDetailController : The author hello goodbye has been saved
+15:50:14.073 INFO  controller.AuthorListController : ew clicked
+15:50:14.885 INFO  controller.AuthorDetailController : The author ew ME has been saved
+15:50:16.262 INFO  controller.AuthorListController : helloasdf clicked
+15:50:16.908 INFO  controller.AuthorDetailController : The author helloasdf jijina has been saved
+15:50:18.164 INFO  controller.AuthorListController : new clicked
+15:50:23.504 INFO  controller.AuthorDetailController : The author new lastttt has been saved
+15:50:26.878 INFO  controller.AuthorListController : farhad clicked
+15:50:27.836 INFO  controller.AuthorDetailController : The author farhad lastttt has been saved
+15:51:00.995 INFO  controller.AuthorListController : ffff clicked
+15:51:01.921 INFO  controller.AuthorDetailController : The author ffff gggg has been saved
+15:51:12.750 INFO  controller.AuthorListController : hi clicked
+15:51:13.592 INFO  controller.AuthorDetailController : The author hi bye has been saved
+15:51:33.943 INFO  controller.AuthorListController : ew clicked
+15:51:39.292 INFO  controller.AuthorDetailController : The author you are trying to update has since been modified. please go back to the author list and retrieve a fresh copy of the Author to make changes
+15:51:57.887 INFO  controller.AuthorListController : ew clicked
+15:52:01.583 INFO  controller.AuthorDetailController : The author you are trying to update has since been modified. please go back to the author list and retrieve a fresh copy of the Author to make changes
+15:53:02.907 INFO  controller.AuthorListController : ew clicked
+15:53:04.917 INFO  controller.AuthorDetailController : The author you are trying to update has since been modified. please go back to the author list and retrieve a fresh copy of the Author to make changes
+15:54:36.739 INFO  controller.AuthorListController : ew clicked
+15:54:38.193 INFO  controller.AuthorDetailController : The author dfas ME has been saved
+15:54:42.192 INFO  controller.AuthorListController : helloasdf clicked
+15:54:44.132 INFO  controller.AuthorDetailController : The author dhfb jijina has been saved
+15:54:59.324 INFO  controller.AuthorListController : dfas clicked
+15:55:02.334 INFO  controller.AuthorListController : dfas clicked
+15:55:08.436 INFO  controller.AuthorDetailController : The author hello ME has been saved
+15:55:14.650 INFO  controller.AuthorDetailController : The author you are trying to update has since been modified. please go back to the author list and retrieve a fresh copy of the Author to make changes
+15:55:28.654 INFO  controller.AuthorListController : dhfb clicked
+15:55:31.315 INFO  controller.AuthorListController : dhfb clicked
+15:55:35.084 INFO  controller.AuthorDetailController : The author yes sir jijina has been saved
+15:55:38.295 INFO  controller.AuthorDetailController : The author you are trying to update has since been modified. please go back to the author list and retrieve a fresh copy of the Author to make changes
+15:56:09.123 INFO  controller.AuthorListController : farhad clicked
+15:56:11.629 INFO  controller.AuthorListController : hello clicked
+15:56:36.155 INFO  controller.AuthorDetailController : The author you are trying to update has since been modified. please go back to the author list and retrieve a fresh copy of the Author to make changes
+15:58:16.752 INFO  controller.AuthorDetailController : The author i like words has been saved
+14:01:04.530 INFO  book.BookDetailController : [Author: hello ME   Royalty: 1%]
+14:01:04.640 INFO  book.bookListController : sdfasdfsd clicked
+14:03:49.113 INFO  book.BookDetailController : []
+14:03:49.184 INFO  book.bookListController : Test book clicked
+14:06:27.394 INFO  book.BookDetailController : []
+14:06:27.464 INFO  book.bookListController : pendragon clicked
+14:06:56.955 INFO  controller.AuthorListController : new clicked
+14:06:59.149 INFO  controller.AuthorListController : new clicked
+14:07:01.944 INFO  controller.AuthorDetailController : The author gdsf lastttt has been saved
+14:07:05.425 INFO  controller.AuthorDetailController : The author you are trying to update has since been modified. please go back to the author list and retrieve a fresh copy of the Author to make changes
+14:07:11.583 INFO  controller.AuthorDetailController : The author f lastttt has been saved
+14:07:14.110 INFO  controller.AuthorDetailController : The author you are trying to update has since been modified. please go back to the author list and retrieve a fresh copy of the Author to make changes
+16:24:00.548 INFO  book.BookDetailController : []
+17:52:17.505 INFO  controller.AuthorListController : hello clicked
+17:52:23.538 INFO  book.BookDetailController : []
+17:52:39.717 INFO  book.BookDetailController : []
+18:03:35.527 INFO  book.BookDetailController : []
+18:05:43.609 INFO  book.BookDetailController : []
+18:05:43.671 INFO  book.bookListController : book 13 clicked
+18:09:08.088 INFO  book.BookDetailController : []
+18:09:08.134 INFO  book.bookListController : book 30 clicked
+18:09:55.415 INFO  book.BookDetailController : []
+18:09:55.458 INFO  book.bookListController : book 165 clicked
+18:10:01.521 INFO  book.BookDetailController : []
+18:10:01.573 INFO  book.bookListController : book 165 clicked
+18:12:59.778 INFO  book.BookDetailController : []
+18:12:59.849 INFO  book.bookListController : book 262 clicked
+18:14:55.421 INFO  book.BookDetailController : []
+18:14:55.489 INFO  book.bookListController : book 14 clicked
+18:15:45.203 INFO  book.BookDetailController : []
+18:15:45.247 INFO  book.bookListController : ADDDD clicked
+18:16:06.739 INFO  book.BookDetailController : []
+18:16:06.783 INFO  book.bookListController : sfdsdfsadfasd clicked
+18:44:52.589 INFO  book.BookDetailController : [Author: f lastttt   Royalty: 3%]
+18:44:52.662 INFO  book.bookListController : sfdsdfsadfasd clicked
+18:45:09.348 INFO  book.BookDetailController : [Author: yes sir jijina   Royalty: 4%, Author: f lastttt   Royalty: 3%]
+18:45:09.405 INFO  book.bookListController : sfdsdfsadfasd clicked
+19:05:28.339 INFO  controller.ExcelDetailController : StringProperty [value: unknown] was selected (ID: 1
+19:06:15.225 INFO  controller.ExcelDetailController : StringProperty [value: testpublisher1] was selected (ID: 3
+19:08:39.443 INFO  controller.ExcelDetailController : StringProperty [value: testpublisher1] was selected (ID: 3
+19:09:55.689 INFO  controller.ExcelDetailController : StringProperty [value: testpublisher1] was selected (ID: 3
+19:15:42.107 INFO  book.BookDetailController : []
+19:16:07.406 INFO  book.BookDetailController : [Author: yes sir jijina   Royalty: 4%, Author: f lastttt   Royalty: 3%]
+19:16:07.459 INFO  book.bookListController : sfdsdfsadfasd clicked
+19:16:12.759 INFO  book.BookDetailController : StringProperty [value: ExcelQuickTestPub] was selected (ID: 5
+19:16:16.334 INFO  book.BookDetailController : The book sfdsdfsadfasd has been saved
+19:16:50.946 INFO  book.BookDetailController : [Author: hello ME   Royalty: 1%]
+19:16:50.994 INFO  book.bookListController : sdfasdfsd clicked
+19:16:55.408 INFO  book.BookDetailController : StringProperty [value: ExcelQuickTestPub] was selected (ID: 5
+19:16:57.092 INFO  book.BookDetailController : The book sdfasdfsd has been saved
+19:17:09.842 INFO  book.BookDetailController : [Author: yes sir jijina   Royalty: 2%]
+19:17:09.894 INFO  book.bookListController : ADDDD clicked
+19:17:13.742 INFO  book.BookDetailController : StringProperty [value: ExcelQuickTestPub] was selected (ID: 5
+19:17:15.360 INFO  book.BookDetailController : The book ADDDD has been saved
+19:17:19.465 INFO  book.BookDetailController : [Author: yes sir jijina   Royalty: 2%]
+19:17:19.527 INFO  book.bookListController : dsfgasgasgasgafgdsafsdf clicked
+19:17:24.082 INFO  book.BookDetailController : StringProperty [value: ExcelQuickTestPub] was selected (ID: 5
+19:17:24.763 INFO  book.BookDetailController : The book dsfgasgasgasgafgdsafsdf has been saved
+19:17:40.056 INFO  controller.ExcelDetailController : StringProperty [value: ExcelQuickTestPub] was selected (ID: 5
+19:18:50.935 INFO  book.BookDetailController : [Author: yes sir jijina   Royalty: 4%, Author: f lastttt   Royalty: 3%]
+19:18:51.005 INFO  book.bookListController : sfdsdfsadfasd clicked
+19:19:15.083 INFO  book.BookDetailController : The book Title 0 has been saved
+19:19:16.901 INFO  book.BookDetailController : []
+19:19:16.948 INFO  book.bookListController : pendragon clicked
+19:19:25.675 INFO  book.BookDetailController : [Author: yes sir jijina   Royalty: 2%]
+19:19:25.727 INFO  book.bookListController : ADDDD clicked
+19:19:34.163 INFO  book.BookDetailController : The book Hairy Potter has been saved
+19:19:46.158 INFO  book.BookDetailController : [Author: yes sir jijina   Royalty: 2%]
+19:19:46.217 INFO  book.bookListController : Hairy Potter clicked
+19:19:52.579 INFO  book.BookDetailController : The book Hairy Potter has been saved
+19:19:56.502 INFO  book.BookDetailController : []
+19:19:56.546 INFO  book.bookListController : ddd clicked
+19:20:03.633 INFO  book.BookDetailController : The book Rangers Apprentice has been saved
+19:20:06.612 INFO  book.BookDetailController : [Author: yes sir jijina   Royalty: 2%]
+19:20:06.654 INFO  book.bookListController : dsfgasgasgasgafgdsafsdf clicked
+19:20:14.416 INFO  book.BookDetailController : The book This is a title has been saved
+19:20:18.083 INFO  book.BookDetailController : []
+19:20:18.124 INFO  book.bookListController : Test book clicked
+19:20:21.791 INFO  book.BookDetailController : []
+19:20:21.836 INFO  book.bookListController : Rangers Apprentice clicked
+19:20:25.820 INFO  book.BookDetailController : [Author: hello ME   Royalty: 1%]
+19:20:25.876 INFO  book.bookListController : sdfasdfsd clicked
+19:20:42.144 INFO  book.BookDetailController : The book 50 shades of yellow has been saved
+19:20:51.811 INFO  controller.ExcelDetailController : StringProperty [value: ExcelQuickTestPub] was selected (ID: 5
+19:25:48.242 INFO  controller.ExcelDetailController : StringProperty [value: ExcelQuickTestPub] was selected (ID: 5
+19:36:39.591 INFO  controller.ExcelDetailController : StringProperty [value: ExcelQuickTestPub] was selected (ID: 5
+19:38:52.186 INFO  controller.ExcelDetailController : StringProperty [value: ExcelQuickTestPub] was selected (ID: 5
+19:41:35.113 INFO  controller.ExcelDetailController : StringProperty [value: ExcelQuickTestPub] was selected (ID: 5
+19:44:40.193 INFO  controller.ExcelDetailController : StringProperty [value: ExcelQuickTestPub] was selected (ID: 5

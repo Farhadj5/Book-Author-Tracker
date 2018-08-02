@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.collections.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<GridPane prefHeight="350.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2">
+  <!-- TODO Add Nodes -->
+  <children>
+    <ComboBox fx:id="publisherBox" onAction="#onComboBoxAction" prefHeight="39.0" prefWidth="200.0" promptText="Select Publisher" GridPane.columnIndex="0" GridPane.rowIndex="0">
+      <items>
+        <FXCollections fx:factory="observableArrayList">
+          <String fx:value="Item 1" />
+          <String fx:value="Item 2" />
+          <String fx:value="Item 3" />
+        </FXCollections>
+      </items>
+    </ComboBox>
+    <TextField fx:id="pathBox" alignment="CENTER_LEFT" prefWidth="200.0" promptText="ENTER PATH" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+    <Button fx:id="generateButton" mnemonicParsing="false" onAction="#onGeneratePressed" prefHeight="73.0" prefWidth="200.0" text="Generate" GridPane.columnIndex="0" GridPane.rowIndex="2" />
+  </children>
+  <columnConstraints>
+    <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
+  </columnConstraints>
+  <rowConstraints>
+    <RowConstraints minHeight="10.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" vgrow="SOMETIMES" />
+    <RowConstraints minHeight="10.0" vgrow="SOMETIMES" />
+  </rowConstraints>
+</GridPane>

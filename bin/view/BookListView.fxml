@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.text.*?>
+
+<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="book.bookListController">
+  <children>
+    <GridPane prefHeight="400.0" prefWidth="344.0">
+      <children>
+        <Button fx:id="searchButton" mnemonicParsing="false" onAction="#onSearchClick" prefHeight="78.0" prefWidth="190.0" text="Search" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+        <Button id="deletebuttonPressed" fx:id="deleteButton" contentDisplay="LEFT" minHeight="14.0" mnemonicParsing="false" onAction="#deletePressed" prefHeight="70.0" prefWidth="190.0" text="Delete" textAlignment="LEFT" GridPane.columnIndex="0" GridPane.rowIndex="2" />
+        <TextField fx:id="searchBar" prefHeight="22.0" prefWidth="190.0" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <Button fx:id="prevPage" mnemonicParsing="false" onAction="#prevPressed" text="prev" GridPane.columnIndex="0" GridPane.rowIndex="3" />
+        <Button fx:id="nextPage" mnemonicParsing="false" onAction="#nextPressed" text="Next" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+        <TextField fx:id="bookNum" editable="false" focusTraversable="false" opacity="1.0" prefWidth="200.0" GridPane.columnIndex="0" GridPane.rowIndex="4" />
+        <TextField fx:id="bookTotal" editable="false" focusTraversable="false" opacity="1.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+      </children>
+      <columnConstraints>
+        <ColumnConstraints hgrow="SOMETIMES" maxWidth="153.0" minWidth="10.0" prefWidth="131.0" />
+        <ColumnConstraints hgrow="SOMETIMES" maxWidth="94.0" minWidth="10.0" prefWidth="59.0" />
+      </columnConstraints>
+      <rowConstraints>
+        <RowConstraints maxHeight="100.0" minHeight="10.0" prefHeight="100.0" vgrow="SOMETIMES" />
+        <RowConstraints maxHeight="100.0" minHeight="10.0" prefHeight="100.0" vgrow="SOMETIMES" />
+        <RowConstraints maxHeight="162.0" minHeight="10.0" prefHeight="153.0" vgrow="SOMETIMES" />
+        <RowConstraints maxHeight="99.0" minHeight="10.0" prefHeight="47.0" vgrow="SOMETIMES" />
+        <RowConstraints maxHeight="99.0" minHeight="10.0" prefHeight="47.0" vgrow="SOMETIMES" />
+      </rowConstraints>
+    </GridPane>
+    <ListView fx:id="bookList" editable="false" onMouseClicked="#onBookListClicked" prefHeight="268.0" prefWidth="436.9999000000025" />
+  </children>
+</HBox>
